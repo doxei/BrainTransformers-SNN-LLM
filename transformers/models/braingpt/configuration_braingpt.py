@@ -1,3 +1,10 @@
+""" BrainGPT model configuration"""
+from ...configuration_utils import PretrainedConfig
+from ...utils import logging
+logger = logging.get_logger(__name__)
+BRAINGPT_PRETRAINED_CONFIG_ARCHIVE_MAP = {
+}
+
 class BrainGPTConfig(PretrainedConfig):
     model_type = "braingpt"
     keys_to_ignore_at_inference = ["past_key_values"]

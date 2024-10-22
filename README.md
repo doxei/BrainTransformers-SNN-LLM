@@ -10,9 +10,12 @@ Stay tuned for updates as we continue to refine and expand our research findings
 
 You can try it online at [www.lumenscopeai.com](http://www.lumenscopeai.com/).
 
+
 ## Model Availability
 
-- The current pre-trained model parameters have been published on Hugging Face.[LumenscopeAI/BrainTransformers-3B-Chat](https://huggingface.co/LumenscopeAI/BrainTransformers-3B-Chat)
+- The current pre-trained model parameters have been published on WiseModel. [LumenScopeAI/BrainTransformers-3B-Chat](https://www.wisemodel.cn/models/LumenScopeAI/BrainTransformers-3B-Chat)
+
+- The model is also available on Hugging Face: [LumenscopeAI/BrainTransformers-3B-Chat](https://huggingface.co/LumenscopeAI/BrainTransformers-3B-Chat)
 
 ## Repository
 
